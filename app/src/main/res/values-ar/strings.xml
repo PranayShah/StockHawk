@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Stock Hawk</string>
+    <string name="action_change_units">وحدات التغيير</string>
+    <string name="action_settings">إعدادات</string>
+    <string name="content_test">بحث عن الأوراق المالية رمز</string>
+    <string name="empty_view_text">يبدأ السحر قريبا</string>
+    <string name="graph_performance">الرسم البياني لاظهار كيف كان أداء الأسهم في الماضي</string>
+    <string name="network_toast">اه اوه! هذا التطبيق يتطلب اتصال بالإنترنت</string>
+    <string name="new_stock">إضافة الأسهم الجديدة</string>
+    <string name="stock_not_found">الأسهم لم يتم العثور على</string>
+    <string name="stock_symbol">رمز السهم</string>
+</resources>

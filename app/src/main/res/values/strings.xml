@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Stock Hawk</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_change_units">Change Units</string>
+    <string name="symbol_search">Symbol Search</string>
+    <string name="content_test">Search for a Stock Symbol</string>
+    <string name="input_hint" translatable="false">FB</string>
+    <string name="network_toast">Uh-oh! This app requires an internet connection</string>
+    <string name="stock_not_found">Stock not found</string>
+    <string name="empty_view_text">Magic starts soon</string>
+    <string name="new_stock">Add new stock</string>
+    <string name="graph_performance">Graph to show how the stocks performed in the past</string>
+    <string name="stock_symbol">Stock symbol</string>
+    <string name="input_prefill" />
+</resources>
