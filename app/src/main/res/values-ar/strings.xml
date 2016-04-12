@@ -10,4 +10,5 @@
     <string name="new_stock">إضافة الأسهم الجديدة</string>
     <string name="stock_not_found">الأسهم لم يتم العثور على</string>
     <string name="stock_symbol">رمز السهم</string>
+    <string name="symbol_search">رمز البحث</string>
 </resources>

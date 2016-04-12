@@ -11,5 +11,5 @@
     <string name="new_stock">Add new stock</string>
     <string name="graph_performance">Graph to show how the stocks performed in the past</string>
     <string name="stock_symbol">Stock symbol</string>
-    <string name="input_prefill" />
+    <string name="input_prefill" translatable="false" />
 </resources>
